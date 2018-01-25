@@ -348,7 +348,7 @@ let [first, ...rest] = set;
 // 例一
 var str = 'hello';
 [...str] //  ['h','e','l','l','o']
-
+llfllf
 // 例二
 let arr = ['b', 'c'];
 ['a', ...arr, 'd']
